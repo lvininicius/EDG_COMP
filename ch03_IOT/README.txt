@@ -31,5 +31,7 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir iss
 - [Lucas Vinicius de Almeida Brigida RM99094 ](https://github.com/lvininicius)
 - [Gabriel Oliveira Rodrigues RM98565 ](https://github.com/ZeusBiel)
 - [Gabriel Riqueto RM98685 ](https:https://github.com/gabriel-riqueto)
+- LINK DO GIT : https://github.com/lvininicius/EDG_COMP/tree/main
+- LINK DO VIDEO : https://www.youtube.com/watch?v=BKLLvzH4NtE
 
 Agradecemos pelo seu interesse neste projeto e esperamos que ele contribua para uma cidade mais sustentável e consciente em relação à reciclagem. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato conosco.
